@@ -45,8 +45,8 @@ def solution(dart):
     return answer
 
 
-
-    import re
+#################다른 사람 풀이
+import re
 
 
 def solution(dartResult):
